@@ -1,5 +1,3 @@
-
-# Título do Projeto Extremamente Aesthetic ;)
 Obsolescência Programada: A Verdade por Trás dos Produtos que Quebram
 
 ## 📒 Descrição
