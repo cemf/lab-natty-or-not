@@ -19,7 +19,7 @@ Utilizei o chatGPT para roteirizaçao do conteudo, com isso gerei um roteiro, an
 Apresente os resultados do seu projeto
 O e-book explica o que é obsolescencia programada, seus principais impactos e soluçoes possiveis
 
-[Ebook aqui](/plannedObsolecence.pdf)
+- [Ebook aqui](/plannedObsolecence.pdf)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
