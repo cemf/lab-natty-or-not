@@ -1,4 +1,4 @@
-```markdown
+
 # Título do Projeto Extremamente Aesthetic ;)
 Obsolescência Programada: A Verdade por Trás dos Produtos que Quebram
 
@@ -19,9 +19,9 @@ Utilizei o chatGPT para roteirizaçao do conteudo, com isso gerei um roteiro, an
 Apresente os resultados do seu projeto
 O e-book explica o que é obsolescencia programada, seus principais impactos e soluçoes possiveis
 
-- [Ebook aqui](/plannedObsolecence.pdf)
+[Ebook aqui](/plannedObsolecence.pdf)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 Acho que as IA, em termos de imagem, nao sabem ainda diferenciar exatamente o tipo de conteudo, se eu falo "capa de livro" ele nao sabe se o livro deveria aparecer junto na imagem 
-```
+
